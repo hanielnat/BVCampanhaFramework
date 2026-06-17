@@ -1,0 +1,24 @@
+SCR_AIWorld SCR_AIWorld : "{E0A05C76552E7F58}Prefabs/AI/SCR_AIWorld.et" {
+ coords 6120.51 157.587 6280.017
+ {
+  CommentEntity {
+   coords 0 1 0
+   m_Comment "SCR_AIWorld: "\
+   "Configure navigation mesh"
+   m_Color 0 0 0
+   m_FaceCamera 1
+   m_TextBackground 1
+   m_BackgroundColor 1 0.6 0
+   m_BackgroundTransparency 0
+  }
+ }
+}
+PerceptionManager PerceptionManager : "{028DAEAD63E056BE}Prefabs/World/Game/PerceptionManager.et" {
+ coords 6120.51 157.494 6279.017
+}
+PS_GameModeCoop BV_Gamemode_Lobby1 : "{7D9649C646F6CB0F}Prefabs/MP/Modes/BV_Gamemode_Lobby.et" {
+ coords 6120.778 157.702 6281.489
+}
+SCR_LoadoutManager : "{B54D08AEA74A5354}Prefabs/MP/Managers/Loadouts/LoadoutManager_Editor.et" {
+ coords 6120.698 157.694 6281.406
+}

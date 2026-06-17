@@ -1,0 +1,60 @@
+$grp SCR_AIGroup : "{B9D6BE88AB0CAA00}Prefabs/Groups/BLUFOR/BIL/Group_EB_GC_P.et" {
+ {
+  coords 10171.509 0.158 1546.491
+  angles 0 -75.651 0
+  m_aStaticWaypoints {
+   "WP_Defend_1"
+  }
+ }
+ {
+  coords 10176.289 2.688 1546.209
+  angles 0 -75.651 0
+  m_aStaticWaypoints {
+   "WP_Defend_2"
+  }
+ }
+ {
+  coords 10181.661 2.688 1545.41
+  angles 0 -75.651 0
+  m_aStaticWaypoints {
+   "WP_Defend_3"
+  }
+ }
+ {
+  coords 10186.858 2.688 1544.333
+  angles 0 -75.651 0
+  m_aStaticWaypoints {
+   "WP_Defend_4"
+  }
+ }
+}
+$grp SCR_AIGroup : "{E3545CFEDD312D54}Prefabs/Groups/OPFOR/Group_USSR_RifleSquad_p.et" {
+ {
+  coords 10944.898 25.313 11852.171
+  m_iGroupRadioFrequency 38000
+  m_iMaxMembers 6
+  m_bPlayable 1
+  m_bSetPlayable 1
+ }
+ {
+  coords 10944.312 25.014 11846.943
+  m_iGroupRadioFrequency 38000
+  m_iMaxMembers 6
+  m_bPlayable 1
+  m_bSetPlayable 1
+ }
+ {
+  coords 10943.941 24.729 11842.123
+  m_iGroupRadioFrequency 38000
+  m_iMaxMembers 6
+  m_bPlayable 1
+  m_bSetPlayable 1
+ }
+ {
+  coords 10943.44 24.503 11837.69
+  m_iGroupRadioFrequency 38000
+  m_iMaxMembers 6
+  m_bPlayable 1
+  m_bSetPlayable 1
+ }
+}

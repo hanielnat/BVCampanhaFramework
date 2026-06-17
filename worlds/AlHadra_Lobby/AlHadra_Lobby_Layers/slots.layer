@@ -1,0 +1,14 @@
+SCR_AIGroup : "{39BF38ADADD652AC}Prefabs/Groups/BLUFOR/BIL/Group_EB_GC_Cmd_P.et" {
+ coords 1482.694 17.875 7103.365
+}
+$grp SCR_AIGroup : "{B9D6BE88AB0CAA00}Prefabs/Groups/BLUFOR/BIL/Group_EB_GC_P.et" {
+ {
+  coords 1483.575 17.875 7095.949
+ }
+ {
+  coords 1485.167 17.875 7077.115
+ }
+ {
+  coords 1484.353 17.875 7085.964
+ }
+}

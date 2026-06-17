@@ -1,0 +1,45 @@
+SCR_MapEntity MapEntity_Arland1 : "{66FBC1063149819B}Prefabs/World/Game/Arland/MapEntity_Arland.et" {
+ coords 128.98 1 150.52
+}
+SCR_AIWorld : "{E0A05C76552E7F58}Prefabs/AI/SCR_AIWorld.et" {
+ coords 134.864 1 150.377
+}
+PerceptionManager PerceptionManager1 : "{028DAEAD63E056BE}Prefabs/World/Game/PerceptionManager.et" {
+ coords 134.355 1 150.143
+}
+PS_GameModeCoop PS_GameMode_Lobby1 : "{9C2001FE7A2F2281}Prefabs/MP/Modes/PS_GameMode_Lobby.et" {
+ coords 132.1 1 153.356
+ m_iFreezeTime 1000
+ m_bFreezeTimeShootingForbiden 1
+ m_bHolsterWeapon 1
+ m_safeStartTime 5
+}
+TimeAndWeatherManagerEntity : "{A3BAF78F6F03315B}Prefabs/World/Game/TimeAndWeatherManager.et" {
+ coords 133.943 1 149.884
+ "Internal variant transition" 0
+ "Internal subvariant 0" 0
+ "Internal subvariant 1" 0
+}
+TILW_PresenceTriggerEntity : "{826E6F2246328952}Prefabs/Logic/Triggers/TILW_PresenceTrigger.et" {
+ coords 133.801 1.001 179.9
+ m_sendStatusMessages 1
+ m_flagName "TEST_FLAG"
+ m_entityNames {
+  "SCR_ChimeraCharacter"
+ }
+}
+TILW_MissionFrameworkEntity : "{8F846D0FD5D6EA51}Prefabs/MP/TILW_MissionFramework.et" {
+ coords 127.149 1 148.183
+ m_missionEvents {
+  TILW_MissionEvent "{68625918FDD6D0D0}" {
+   m_instructions {
+    TILW_ChangeWeatherInstruction "{6862591887937FBF}" {
+     m_sWeatherPresetName "Rainy"
+    }
+   }
+   m_condition TILW_LiteralTerm "{68625918B23BC604}" {
+    m_flagName "TEST_FLAG"
+   }
+  }
+ }
+}

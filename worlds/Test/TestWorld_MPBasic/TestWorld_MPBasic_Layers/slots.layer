@@ -1,0 +1,8 @@
+SCR_AIGroup : "{47EADE5E4E07076C}Prefabs/Groups/BLUFOR/Group_US_FireTeam_P.et" {
+ coords 131.534 1 148.828
+ m_sCustomNameSet "Warlord  1-1"
+ m_bSetPlayable 1
+}
+PolylineShapeEntity : "{85222A2744768C81}Prefabs/Logic/AOLimit/TILW_AOLimit.et" {
+ coords 124.403 1 147.913
+}

@@ -1,0 +1,6 @@
+SCR_AIGroup : "{B9D6BE88AB0CAA00}Prefabs/Groups/BLUFOR/BIL/Group_EB_GC_P.et" {
+ ID "0000000000000001"
+ m_aUnitPrefabSlots {
+  "{E727DADFA85C2A6C}Prefabs/Characters/Factions/BLUFOR/EB/BIL/Character_EB_02_LPLT.et" "{16FCAC45ABB3D641}Prefabs/Characters/Factions/BLUFOR/EB/BIL/Character_EB_02_2LPLT.et"
+ }
+}

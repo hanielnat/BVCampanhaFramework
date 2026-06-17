@@ -1,0 +1,14 @@
+$grp SCR_DefendWaypoint : "{47B2083B96AB06C6}Prefabs/AI/Waypoints/AIWaypoint_Defend_3m.et" {
+ WP_Defend_1 {
+  coords 10169.902 2.757 1546.448
+ }
+ WP_Defend_2 {
+  coords 10175.146 2.728 1544.558
+ }
+ WP_Defend_3 {
+  coords 10172.776 2.745 1545.669
+ }
+ WP_Defend_4 {
+  coords 10178.992 2.695 1544.492
+ }
+}

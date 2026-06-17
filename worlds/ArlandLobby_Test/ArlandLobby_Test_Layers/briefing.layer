@@ -1,0 +1,18 @@
+$grp PS_MissionDescription : "{3136BE42592F3B1B}PrefabsEditable/MissionDescription/EditableMissionDescription.et" {
+ {
+  coords 3204.552 3.174 1188.097
+  m_sTitle "Briefing"
+  m_sTextData "BriefingBriefingBriefing"
+  m_aVisibleForFactions {
+   "EB"
+  }
+ }
+ {
+  coords 3201.899 3.372 1187.517
+  m_sTitle "Briefing"
+  m_sTextData "BriefingBriefingBriefing"
+  m_aVisibleForFactions {
+   "EB"
+  }
+ }
+}

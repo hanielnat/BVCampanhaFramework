@@ -1,0 +1,6 @@
+SCR_AIGroup : "{969AA01C0ED4832F}Prefabs/Groups/BLUFOR/BIL/Group_EB_GC.et" {
+ ID "0000000000000001"
+ m_aUnitPrefabSlots {
+  "{01B4B4EB3EA3C664}Prefabs/Characters/Factions/BLUFOR/EB/BIL/Character_EB_02_LGC.et" "{6A225D951F551A07}Prefabs/Characters/Factions/BLUFOR/EB/BIL/Character_EB_02_LESQ.et" "{3C2756C305BD257B}Prefabs/Characters/Factions/BLUFOR/EB/BIL/Character_EB_02_ATleve.et" "{79710EB77B914635}Prefabs/Characters/Factions/BLUFOR/EB/BIL/Character_EB_02_GL.et" "{184718AFD92E3405}Prefabs/Characters/Factions/BLUFOR/EB/BIL/Character_EB_02_FA.et" "{6A225D951F551A07}Prefabs/Characters/Factions/BLUFOR/EB/BIL/Character_EB_02_LESQ.et" "{B9437AD0BCFDB676}Prefabs/Characters/Factions/BLUFOR/EB/BIL/Character_EB_02_Socorrista.et" "{79710EB77B914635}Prefabs/Characters/Factions/BLUFOR/EB/BIL/Character_EB_02_GL.et" "{184718AFD92E3405}Prefabs/Characters/Factions/BLUFOR/EB/BIL/Character_EB_02_FA.et"
+ }
+}

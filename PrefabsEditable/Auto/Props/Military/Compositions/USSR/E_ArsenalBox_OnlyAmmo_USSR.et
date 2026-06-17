@@ -1,0 +1,10 @@
+GenericEntity : "{8CA93330EA43EA78}PrefabsEditable/Auto/Props/Military/Compositions/USSR/E_ArsenalBox_USSR.et" {
+ ID "56F2C6D6F7C6DAFA"
+ components {
+  SCR_ArsenalComponent "{56F2C6D1431AD9AF}" {
+   m_eSupportedArsenalItemTypes 1344510
+   m_eSupportedArsenalItemModes 178
+   m_eEditableAttributeGroups 30
+  }
+ }
+}

@@ -1,0 +1,19 @@
+MetaFileClass {
+ Name "{D593C9F924E24A4C}PrefabsEditable/Auto/Props/Military/Compositions/EB/E_ArsenalBox_OnlyAmmo_EB.et"
+ Configurations {
+  EntityTemplateResourceClass PC {
+  }
+  EntityTemplateResourceClass XBOX_ONE : PC {
+  }
+  EntityTemplateResourceClass XBOX_SERIES : PC {
+  }
+  EntityTemplateResourceClass PS4 : PC {
+  }
+  EntityTemplateResourceClass PS5 : PC {
+  }
+  EntityTemplateResourceClass HEADLESS : PC {
+  }
+  EntityTemplateResourceClass Xbox : PC {
+  }
+ }
+}

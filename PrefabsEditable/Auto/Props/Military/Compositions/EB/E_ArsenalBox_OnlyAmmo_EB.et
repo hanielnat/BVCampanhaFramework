@@ -1,0 +1,10 @@
+GenericEntity : "{41224DC924BB96C5}PrefabsEditable/Auto/Props/Military/Compositions/EB/E_ArsenalBox_EB.et" {
+ ID "56F2C6D6F7C6DAFA"
+ components {
+  SCR_ArsenalComponent "{56F2C6D1431AD9AF}" {
+   m_eSupportedArsenalItemTypes 7635966
+   m_eSupportedArsenalItemModes 434
+   m_eEditableAttributeGroups 30
+  }
+ }
+}

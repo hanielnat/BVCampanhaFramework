@@ -1,3 +1,18 @@
-SCR_AIGroup : "{82CB9027991266CF}Prefabs/Groups/OPFOR/KLMK/Group_USSR_MedicalSection_KLMK_P.et" {
- coords 3158.134 4.182 1177.614
+SCR_AIGroup : "{39BF38ADADD652AC}Prefabs/Groups/BLUFOR/BIL/Group_EB_GC_Cmd_P.et" {
+ coords 3180.816 4.185 1188.467
+ angles 0 -129.927 0
+}
+$grp SCR_AIGroup : "{B9D6BE88AB0CAA00}Prefabs/Groups/BLUFOR/BIL/Group_EB_GC_P.et" {
+ {
+  coords 3188.019 4.021 1193.402
+  angles 0 -120 0
+ }
+ {
+  coords 3185.521 4.246 1191.754
+  angles 0 -120 0
+ }
+ {
+  coords 3183.476 4.21 1190.221
+  angles 0 -120 0
+ }
 }

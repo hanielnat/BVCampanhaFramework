@@ -1,0 +1,119 @@
+GenericEntity Area1 : "{C72F956E4AC6A6E7}Prefabs/Systems/ScenarioFramework/Components/Area.et" {
+ coords 3164.485 3.921 1177.812
+ {
+  GenericEntity Layer1 : "{5F9FFF4BF027B3A3}Prefabs/Systems/ScenarioFramework/Components/Layer.et" {
+   coords 0 0 0
+   {
+    $grp GenericEntity : "{AA01691FDC4E9167}Prefabs/Systems/ScenarioFramework/Components/Slot.et" {
+     Slot1 {
+      components {
+       SCR_ScenarioFrameworkSlotBase "{5A22E1D67E712EC8}" {
+        m_sObjectToSpawn "{B2A519402E9AC209}PrefabsEditable/RestrictionZone/E_EditorRestrictionZoneLarge.et"
+       }
+      }
+      coords -24.716 0.639 18.542
+     }
+     Slot2 {
+      components {
+       SCR_ScenarioFrameworkSlotBase "{5A22E1D67E712EC8}" {
+        m_sObjectToSpawn "{9C3D7677970DE501}Prefabs/Props/Military/Compositions/EB/ArsenalBox_EB.et"
+       }
+      }
+      coords -14.169 0.896 29.638
+      angles 0.799 63.198 -0.404
+     }
+     Slot4 {
+      components {
+       SCR_ScenarioFrameworkSlotBase "{5A22E1D67E712EC8}" {
+        m_sObjectToSpawn "{9C3D7677970DE501}Prefabs/Props/Military/Compositions/EB/ArsenalBox_EB.et"
+       }
+      }
+      coords -13.336 0.892 26.291
+      angles 0.799 63.198 -0.404
+     }
+     Slot5 {
+      components {
+       SCR_ScenarioFrameworkSlotBase "{5A22E1D67E712EC8}" {
+        m_sObjectToSpawn "{9C3D7677970DE501}Prefabs/Props/Military/Compositions/EB/ArsenalBox_EB.et"
+       }
+      }
+      coords -12.044 0.891 22.581
+      angles 0.799 63.198 -0.404
+     }
+     Slot3 {
+      components {
+       SCR_ScenarioFrameworkSlotBase "{5A22E1D67E712EC8}" {
+        m_sObjectToSpawn "{4025DD9A9362E3DD}Prefabs/Vehicles/Wheeled/M923A1/M923A1_transport_covered_EB.et"
+       }
+      }
+      coords -25.529 0.908 36.771
+      angles 2.506 52.979 0.351
+     }
+     Slot7 {
+      components {
+       SCR_ScenarioFrameworkSlotBase "{5A22E1D67E712EC8}" {
+        m_sObjectToSpawn "{4025DD9A9362E3DD}Prefabs/Vehicles/Wheeled/M923A1/M923A1_transport_covered_EB.et"
+       }
+      }
+      coords -40.194 0.267 26.996
+      angles 2.33 67.991 0.988
+     }
+     Slot8 {
+      components {
+       SCR_ScenarioFrameworkSlotBase "{5A22E1D67E712EC8}" {
+        m_sObjectToSpawn "{B881DE02BEB72774}Prefabs/Vehicles/Wheeled/M923A1/M923A1_engineer_EB.et"
+       }
+      }
+      coords -59.34 -0.302 20.395
+      angles 2.33 67.991 0.988
+     }
+     Slot6 {
+      components {
+       SCR_ScenarioFrameworkSlotBase "{5A22E1D67E712EC8}" {
+        m_sObjectToSpawn "{94D9E9B690F98756}PrefabsEditable/Auto/Compositions/Slotted/SlotFlatSmall/E_SupplyCache_S_US_01.et"
+       }
+      }
+      coords -25.786 0.579 19.537
+      angles -0.198 57.772 -1.991
+     }
+     Slot10 {
+      components {
+       SCR_ScenarioFrameworkSlotBase "{5A22E1D67E712EC8}" {
+        m_sObjectToSpawn "{94D9E9B690F98756}PrefabsEditable/Auto/Compositions/Slotted/SlotFlatSmall/E_SupplyCache_S_US_01.et"
+       }
+      }
+      coords -34.066 0.652 14.619
+      angles -1.148 57.835 -3.503
+     }
+     Slot11 {
+      components {
+       SCR_ScenarioFrameworkSlotBase "{5A22E1D67E712EC8}" {
+        m_sObjectToSpawn "{94D9E9B690F98756}PrefabsEditable/Auto/Compositions/Slotted/SlotFlatSmall/E_SupplyCache_S_US_01.et"
+       }
+      }
+      coords -54.076 0.596 10.259
+      angles -0.776 57.873 -7.918
+     }
+     Slot9 {
+      components {
+       SCR_ScenarioFrameworkSlotBase "{5A22E1D67E712EC8}" {
+        m_sObjectToSpawn "{8A35EE23A7124EF5}Prefabs/Vehicles/Helicopters/UH1H/UH1H_EB.et"
+       }
+      }
+      coords -55.697 -0.81 -33.834
+      angles 3.576 0.056 0.897
+     }
+     Slot12 {
+      components {
+       SCR_ScenarioFrameworkSlotBase "{5A22E1D67E712EC8}" {
+        m_sObjectToSpawn "{8A35EE23A7124EF5}Prefabs/Vehicles/Helicopters/UH1H/UH1H_EB.et"
+       }
+      }
+      coords -34.232 -0.429 -25.198
+      angles 0 0 1.79
+     }
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,14 @@
+SCR_AIGroup : "{D1B420D921CC6CD4}Prefabs/Groups/OPFOR/Group_USSR_PlatoonHQ_P.et" {
+ coords 1162.44 1.156 3284.443
+}
+$grp SCR_AIGroup : "{E3545CFEDD312D54}Prefabs/Groups/OPFOR/Group_USSR_RifleSquad_p.et" {
+ {
+  coords 1162.38 1.156 3277.538
+ }
+ {
+  coords 1162.396 1.156 3279.833
+ }
+ {
+  coords 1162.455 1.156 3282.283
+ }
+}
